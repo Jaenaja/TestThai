@@ -9,7 +9,7 @@ Use php is running.
 ## Installation Test2
 
 There are two parts 
->Backend REST api (php laravel)
+>Backend REST api (php laravel) in part folder web_api
 
 1. Import database in folder web_api
 2. config .env
@@ -17,7 +17,7 @@ There are two parts
 ```bash
 php -S localhost:8080 -t public/
 ```
->FrontEnd(ReactJS)
+>FrontEnd(ReactJS) in part folder instragram
 1. Install Project
 ```bash
 npm install
