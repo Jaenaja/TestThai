@@ -22,7 +22,7 @@ php -S localhost:8080 -t public/
 ```bash
 npm install
 ```
-1. run project
+2. run project
 ```bash
 npm start
 ```
